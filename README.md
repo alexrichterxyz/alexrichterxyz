@@ -1,16 +1,18 @@
-### Hi there 👋
+```text
+  _   _ _   _   _                   _ 
+ | | | (_) | |_| |__   ___ _ __ ___| |
+ | |_| | | | __| '_ \ / _ \ '__/ _ \ |
+ |  _  | | | |_| | | |  __/ | |  __/_|
+ |_| |_|_|  \__|_| |_|\___|_|  \___(_)
+                                      
+```
 
-<!--
-**alexrichterxyz/alexrichterxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm fluent in 
 
-Here are some ideas to get you started:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me at
+
+```shell
+whois alexrichter.xyz | grep -i 'Admin Email' | tail -n 1
+```
