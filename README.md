@@ -14,5 +14,5 @@ I'm fluent in
 Contact me at
 
 ```shell
-curl -s https://alexrichter.xyz |  grep -i -o '[A-Z0-9._%+-]\+@[A-Z0-9.-]\+\.[A-Z]\{2,4\}'
+curl -s https://alexrichter.xyz | grep -i -o '[A-Z0-9._%+-]\+@[A-Z0-9.-]\+\.[A-Z]\{2,4\}'
 ```
