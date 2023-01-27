@@ -17,7 +17,9 @@ I'm currently conducting [research](https://www.sydney.edu.au/business/about/our
 Some things I recently worked on include
 
 📈 [a matching engine designed for research](https://github.com/alexrichterxyz/extendable_limit_order_book)
+
 🧮 [building a 4-bot calculator from transistors](https://alexrichter.xyz/posts/building-computer-from-transistors/)
+
 🔬 [using slime-mold to optimize transport networks](https://alexrichter.xyz/posts/physarum-slime-mold-transport-networks-hawaii-hokkaido/)
 
 
