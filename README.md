@@ -14,7 +14,7 @@ I'm fluent in
 
 I'm currently conducting [research](https://www.sydney.edu.au/business/about/our-people/research-students/alexander-richter-601.html) at the University of Sydney.
 
-Some things I recently worked on include
+Some things I recently worked on include:
 
 📈 [a matching engine designed for research](https://github.com/alexrichterxyz/extendable_limit_order_book)
 
